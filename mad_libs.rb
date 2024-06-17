@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Ruby Mad Libs Game
 
 # prompt user for different types of works
